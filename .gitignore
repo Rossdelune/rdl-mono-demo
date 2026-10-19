@@ -1,0 +1,13 @@
+# Ignorar absolutamente todo
+*
+
+# Permitir el archivo de reglas de git
+!.gitignore
+
+# Permitir el index
+!index.html
+
+# Permitir los assets (imágenes)
+!logo_contrato.png
+!logo_vectorizado_copia.png
+!boceto_figurin.jpg
